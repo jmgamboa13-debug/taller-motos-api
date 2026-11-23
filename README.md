@@ -49,6 +49,13 @@ La regla está en `services/turnosService.js`. El total con recargo se redondea 
 
 Requisito: Node.js 22 o superior y npm.
 
+Para descargar el proyecto:
+
+```bash
+git clone https://github.com/jmgamboa13-debug/taller-motos-api.git
+cd taller-motos-api
+```
+
 Desde la carpeta del proyecto:
 
 ```bash
@@ -291,7 +298,9 @@ Todos los integrantes deben poder ejecutar y explicar cualquier parte del proyec
 
 ## Entrega
 
-Publicar el código en un repositorio público de GitHub y entregar su enlace en la plataforma institucional. Incluir `package.json`, `package-lock.json` y este README. La carpeta `node_modules` está excluida mediante `.gitignore`; las dependencias se instalan con `npm install`.
+Repositorio público del proyecto: [jmgamboa13-debug/taller-motos-api](https://github.com/jmgamboa13-debug/taller-motos-api).
+
+Entregar ese enlace en la plataforma institucional. El repositorio incluye `package.json`, `package-lock.json` y este README. La carpeta `node_modules` está excluida mediante `.gitignore`; las dependencias se instalan con `npm install`.
 
 ## Referencias técnicas
 
